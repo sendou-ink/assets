@@ -17,6 +17,8 @@ assets/
 planner-maps/        generated stage maps (source for assets/planner-maps)
 planner-maps.js      script that renames raw map exports into the naming scheme
 planner-maps-yaga.js variant of the above for a different input layout
+homemade.json            metadata for community-made badges (see below)
+check-homemade-badges.js validates homemade.json (runs in CI)
 ```
 
 Anything outside `assets/` is tooling/source and is **not** deployed.
@@ -36,6 +38,34 @@ node planner-maps-yaga.js   # reads input/overhead/,  writes planner-maps-new/
 - **type** — map variant: `OVER` (overhead), `MINI` (minimap), `ITEMS`.
 
 After generating, move/copy the results into `assets/planner-maps/` to ship them.
+
+## Homemade badges
+
+[`homemade.json`](./homemade.json) maps each community-made badge to its display
+name and the Discord id of its author. sendou.ink reads it from this repo's `main`
+branch to sync badge metadata into its database. Each entry's key is the badge
+file name, which must have matching `assets/badges/<key>.avif` and
+`assets/badges/<key>.gif` files.
+
+```json
+{
+  "my-badge": {
+    "displayName": "My Badge",
+    "authorDiscordId": "123456789012345678"
+  }
+}
+```
+
+Keys are kept in alphabetical order and display names must be unique.
+[`check-homemade-badges.js`](./check-homemade-badges.js) enforces all of this
+(shape, ordering, uniqueness, encoding, and that the image files exist). It runs
+on every pull request that touches `homemade.json` or `assets/badges/` (see
+[the workflow](./.github/workflows/check-homemade-badges.yml)) and can be run
+locally:
+
+```bash
+node check-homemade-badges.js
+```
 
 ## Deployment
 
