@@ -311,6 +311,10 @@
 		"displayName": "Craft Testers: Bronze Head",
 		"authorDiscordId": "1244540853431828571"
 	},
+	"ctgold": {
+		"displayName": "Craft Testers: Gold Head",
+		"authorDiscordId": "1244540853431828571"
+	},
 	"ctrl_ink_delete": {
 		"displayName": "CTRL + Ink + Delete",
 		"authorDiscordId": "751912670403362836"
