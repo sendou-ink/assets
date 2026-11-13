@@ -1,0 +1,455 @@
+{
+  "height": 19,
+  "glyphs": [
+    {
+      "char": "X",
+      "x": 2,
+      "y": 2,
+      "w": 11,
+      "h": 21,
+      "source": "font",
+      "baseline": 18.73
+    },
+    {
+      "char": "X",
+      "x": 15,
+      "y": 2,
+      "w": 12,
+      "h": 22,
+      "source": "font",
+      "baseline": 20.13
+    },
+    {
+      "char": "マ",
+      "x": 29,
+      "y": 2,
+      "w": 15,
+      "h": 19,
+      "source": "font",
+      "baseline": 16.73
+    },
+    {
+      "char": "マ",
+      "x": 46,
+      "y": 2,
+      "w": 16,
+      "h": 20,
+      "source": "font",
+      "baseline": 18.13
+    },
+    {
+      "char": "ッ",
+      "x": 64,
+      "y": 2,
+      "w": 14,
+      "h": 16,
+      "source": "font",
+      "baseline": 13.73
+    },
+    {
+      "char": "ッ",
+      "x": 80,
+      "y": 2,
+      "w": 15,
+      "h": 16,
+      "source": "font",
+      "baseline": 14.13
+    },
+    {
+      "char": "チ",
+      "x": 97,
+      "y": 2,
+      "w": 14,
+      "h": 21,
+      "source": "font",
+      "baseline": 18.73
+    },
+    {
+      "char": "チ",
+      "x": 113,
+      "y": 2,
+      "w": 15,
+      "h": 22,
+      "source": "font",
+      "baseline": 20.13
+    },
+    {
+      "char": "バ",
+      "x": 130,
+      "y": 2,
+      "w": 16,
+      "h": 24,
+      "source": "font",
+      "baseline": 21.73
+    },
+    {
+      "char": "バ",
+      "x": 148,
+      "y": 2,
+      "w": 16,
+      "h": 25,
+      "source": "font",
+      "baseline": 23.13
+    },
+    {
+      "char": "ン",
+      "x": 166,
+      "y": 2,
+      "w": 16,
+      "h": 19,
+      "source": "font",
+      "baseline": 17.73
+    },
+    {
+      "char": "ン",
+      "x": 184,
+      "y": 2,
+      "w": 16,
+      "h": 19,
+      "source": "font",
+      "baseline": 18.13
+    },
+    {
+      "char": "カ",
+      "x": 202,
+      "y": 2,
+      "w": 15,
+      "h": 21,
+      "source": "font",
+      "baseline": 17.73
+    },
+    {
+      "char": "カ",
+      "x": 219,
+      "y": 2,
+      "w": 16,
+      "h": 22,
+      "source": "font",
+      "baseline": 19.13
+    },
+    {
+      "char": "ラ",
+      "x": 237,
+      "y": 2,
+      "w": 15,
+      "h": 21,
+      "source": "font",
+      "baseline": 18.73
+    },
+    {
+      "char": "ラ",
+      "x": 254,
+      "y": 2,
+      "w": 16,
+      "h": 22,
+      "source": "font",
+      "baseline": 20.13
+    },
+    {
+      "char": "（",
+      "x": 272,
+      "y": 2,
+      "w": 10,
+      "h": 25,
+      "source": "font",
+      "baseline": 21.73
+    },
+    {
+      "char": "（",
+      "x": 284,
+      "y": 2,
+      "w": 11,
+      "h": 26,
+      "source": "font",
+      "baseline": 23.13
+    },
+    {
+      "char": "ャ",
+      "x": 297,
+      "y": 2,
+      "w": 14,
+      "h": 17,
+      "source": "font",
+      "baseline": 14.73
+    },
+    {
+      "char": "ャ",
+      "x": 313,
+      "y": 2,
+      "w": 14,
+      "h": 18,
+      "source": "font",
+      "baseline": 16.13
+    },
+    {
+      "char": "レ",
+      "x": 329,
+      "y": 2,
+      "w": 15,
+      "h": 20,
+      "source": "font",
+      "baseline": 17.73
+    },
+    {
+      "char": "レ",
+      "x": 346,
+      "y": 2,
+      "w": 15,
+      "h": 21,
+      "source": "font",
+      "baseline": 19.13
+    },
+    {
+      "char": "ジ",
+      "x": 363,
+      "y": 2,
+      "w": 16,
+      "h": 25,
+      "source": "font",
+      "baseline": 22.73
+    },
+    {
+      "char": "ジ",
+      "x": 381,
+      "y": 2,
+      "w": 17,
+      "h": 26,
+      "source": "font",
+      "baseline": 24.13
+    },
+    {
+      "char": "）",
+      "x": 400,
+      "y": 2,
+      "w": 11,
+      "h": 25,
+      "source": "font",
+      "baseline": 21.73
+    },
+    {
+      "char": "）",
+      "x": 413,
+      "y": 2,
+      "w": 11,
+      "h": 25,
+      "source": "font",
+      "baseline": 22.13
+    },
+    {
+      "char": "オ",
+      "x": 426,
+      "y": 2,
+      "w": 16,
+      "h": 21,
+      "source": "font",
+      "baseline": 17.73
+    },
+    {
+      "char": "オ",
+      "x": 444,
+      "y": 2,
+      "w": 16,
+      "h": 22,
+      "source": "font",
+      "baseline": 19.13
+    },
+    {
+      "char": "ー",
+      "x": 462,
+      "y": 2,
+      "w": 11,
+      "h": 6,
+      "source": "font",
+      "baseline": 10.73
+    },
+    {
+      "char": "ー",
+      "x": 475,
+      "y": 2,
+      "w": 12,
+      "h": 7,
+      "source": "font",
+      "baseline": 12.13
+    },
+    {
+      "char": "プ",
+      "x": 489,
+      "y": 2,
+      "w": 15,
+      "h": 26,
+      "source": "font",
+      "baseline": 23.73
+    },
+    {
+      "char": "プ",
+      "x": 506,
+      "y": 2,
+      "w": 16,
+      "h": 27,
+      "source": "font",
+      "baseline": 25.13
+    },
+    {
+      "char": "イ",
+      "x": 524,
+      "y": 2,
+      "w": 14,
+      "h": 21,
+      "source": "font",
+      "baseline": 18.73
+    },
+    {
+      "char": "イ",
+      "x": 540,
+      "y": 2,
+      "w": 15,
+      "h": 22,
+      "source": "font",
+      "baseline": 20.13
+    },
+    {
+      "char": "ベ",
+      "x": 557,
+      "y": 2,
+      "w": 15,
+      "h": 24,
+      "source": "font",
+      "baseline": 21.73
+    },
+    {
+      "char": "ベ",
+      "x": 574,
+      "y": 2,
+      "w": 16,
+      "h": 25,
+      "source": "font",
+      "baseline": 23.13
+    },
+    {
+      "char": "ト",
+      "x": 592,
+      "y": 2,
+      "w": 14,
+      "h": 20,
+      "source": "font",
+      "baseline": 17.73
+    },
+    {
+      "char": "ト",
+      "x": 608,
+      "y": 2,
+      "w": 14,
+      "h": 21,
+      "source": "font",
+      "baseline": 19.13
+    },
+    {
+      "char": "ギ",
+      "x": 624,
+      "y": 2,
+      "w": 16,
+      "h": 23,
+      "source": "font",
+      "baseline": 20.73
+    },
+    {
+      "char": "ギ",
+      "x": 642,
+      "y": 2,
+      "w": 17,
+      "h": 24,
+      "source": "font",
+      "baseline": 22.13
+    },
+    {
+      "char": "ュ",
+      "x": 661,
+      "y": 2,
+      "w": 13,
+      "h": 15,
+      "source": "font",
+      "baseline": 13.73
+    },
+    {
+      "char": "ュ",
+      "x": 676,
+      "y": 2,
+      "w": 14,
+      "h": 15,
+      "source": "font",
+      "baseline": 14.13
+    },
+    {
+      "char": "フ",
+      "x": 692,
+      "y": 2,
+      "w": 15,
+      "h": 19,
+      "source": "font",
+      "baseline": 16.73
+    },
+    {
+      "char": "フ",
+      "x": 709,
+      "y": 2,
+      "w": 16,
+      "h": 20,
+      "source": "font",
+      "baseline": 18.13
+    },
+    {
+      "char": "ェ",
+      "x": 727,
+      "y": 2,
+      "w": 12,
+      "h": 16,
+      "source": "font",
+      "baseline": 12.73
+    },
+    {
+      "char": "ェ",
+      "x": 741,
+      "y": 2,
+      "w": 12,
+      "h": 17,
+      "source": "font",
+      "baseline": 14.13
+    },
+    {
+      "char": "ス",
+      "x": 755,
+      "y": 2,
+      "w": 16,
+      "h": 20,
+      "source": "font",
+      "baseline": 17.73
+    },
+    {
+      "char": "ス",
+      "x": 773,
+      "y": 2,
+      "w": 17,
+      "h": 21,
+      "source": "font",
+      "baseline": 19.13
+    },
+    {
+      "char": "リ",
+      "x": 792,
+      "y": 2,
+      "w": 14,
+      "h": 19,
+      "source": "font",
+      "baseline": 16.73
+    },
+    {
+      "char": "リ",
+      "x": 808,
+      "y": 2,
+      "w": 15,
+      "h": 20,
+      "source": "font",
+      "baseline": 18.13
+    }
+  ]
+}
